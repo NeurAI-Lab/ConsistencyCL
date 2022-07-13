@@ -1,5 +1,5 @@
 # Consistency is the key to further mitigating catastrophic forgettin in continual learning 
-Official Repository for  "[Consistency is the key to further mitigating catastrophic forgettin in continual learning](https://arxiv.org/abs/2207.04998)"
+Official Repository for for CoLLAs 2022 paper "[Consistency is the key to further mitigating catastrophic forgettin in continual learning](https://arxiv.org/abs/2207.04998)"
 
 This repo is built on top of the [Mammoth](https://github.com/aimagelab/mammoth) continual learning framework
 
