@@ -32,3 +32,18 @@ This repo is built on top of the [Mammoth](https://github.com/aimagelab/mammoth)
 
 If you find the code useful in your research, please consider citing our paper:
 
+
+    @InProceedings{pmlr-v199-bhat22b,
+      title = 	 {Consistency is the Key to Further Mitigating Catastrophic Forgetting in Continual Learning},
+      author =       {Bhat, Prashant Shivaram and Zonooz, Bahram and Arani, Elahe},
+      booktitle = 	 {Proceedings of The 1st Conference on Lifelong Learning Agents},
+      pages = 	 {1195--1212},
+      year = 	 {2022},
+      editor = 	 {Chandar, Sarath and Pascanu, Razvan and Precup, Doina},
+      volume = 	 {199},
+      series = 	 {Proceedings of Machine Learning Research},
+      month = 	 {22--24 Aug},
+      publisher =    {PMLR},
+      pdf = 	 {https://proceedings.mlr.press/v199/bhat22b/bhat22b.pdf},
+      url = 	 {https://proceedings.mlr.press/v199/bhat22b.html},
+    }
